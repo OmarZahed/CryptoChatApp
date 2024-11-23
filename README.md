@@ -63,5 +63,3 @@
 **SecureChat** demonstrates the application of cryptographic techniques for secure communication. With further enhancements like PKI and TLS, it can provide even greater resilience against attacks.
 
 ---
-
-Feel free to contribute or re
