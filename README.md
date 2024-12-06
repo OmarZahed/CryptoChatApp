@@ -2,7 +2,7 @@
 # CRYPTOGRAPHY CW1: SecureChat
 
 ## Introduction
-**SecureChat** is a cryptographic client-server application designed to ensure secure communication and user authentication using a combination of RSA, AES, and bcrypt cryptographic techniques. The project focuses on confidentiality, integrity, and authentication of data for secure real-time messaging.
+**SecureChat** is a cryptographic client-server GUI application designed to ensure secure communication and user authentication using a combination of RSA, AES, and bcrypt cryptographic techniques. The project focuses on confidentiality, integrity, and authentication of data for secure real-time messaging.
 
 ## Features
 - **User Authentication**: Secure sign-up and login with password hashing.
@@ -16,7 +16,7 @@
 - Distributes AES session keys via RSA encryption.
 - Broadcasts encrypted messages to clients.
 
-### Client
+### Client GUI
 - Handles user authentication (sign-up/login).
 - Exchanges RSA public keys for secure communication.
 - Sends and receives encrypted messages using AES.
